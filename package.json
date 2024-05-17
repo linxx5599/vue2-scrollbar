@@ -1,0 +1,38 @@
+{
+  "name": "scrollbar-vue2",
+  "version": "0.0.4",
+  "description": "这个人很懒什么也没有",
+  "main": "components/index.js",
+  "scripts": {
+    "dev": "webpack serve"
+  },
+  "files": [
+    "components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linxx5599/scrollbar-vue2.git"
+  },
+  "keywords": [],
+  "author": "linjy",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.22.5",
+    "autoprefixer": "^10.4.14",
+    "babel-loader": "^9.1.2",
+    "clean-webpack-plugin": "^4.0.0",
+    "core-js": "^3.30.2",
+    "css-loader": "^6.8.1",
+    "html-webpack-plugin": "^5.5.3",
+    "postcss-loader": "^7.3.3",
+    "style-loader": "^3.3.3",
+    "vue": "^2.6.14",
+    "vue-loader": "^15.4.1",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.86.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
